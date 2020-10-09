@@ -1,0 +1,7 @@
+C:\Users\solov\source\repos\Практика 2\Практика 2\obj\Debug\Практика 2.csprojAssemblyReference.cache
+C:\Users\solov\source\repos\Практика 2\Практика 2\obj\Debug\Практика 2.csproj.CoreCompileInputs.cache
+C:\Users\solov\source\repos\Практика 2\Практика 2\bin\Debug\Практика 2.exe.config
+C:\Users\solov\source\repos\Практика 2\Практика 2\bin\Debug\Практика 2.exe
+C:\Users\solov\source\repos\Практика 2\Практика 2\bin\Debug\Практика 2.pdb
+C:\Users\solov\source\repos\Практика 2\Практика 2\obj\Debug\Практика 2.exe
+C:\Users\solov\source\repos\Практика 2\Практика 2\obj\Debug\Практика 2.pdb
